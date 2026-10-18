@@ -1,5 +1,5 @@
 # Hello, I'm Ahmad
-<a href="www.linkedin.com/in/ahmad-al-jlaf-445a52264"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/ahmad-al-jlaf-445a52264"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I'm a cybersecurity professional with interest in SOC Operations, threat detection, incident response, and security engineering. I build hands-on labs to understand how attackers operate and how defenders can detect, mitigate, and respond to threats in real-time.
 
