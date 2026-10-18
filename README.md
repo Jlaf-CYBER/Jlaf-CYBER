@@ -51,13 +51,11 @@ My journey in computer engineering and networking has led me to develop a passio
 
 ## Projects
 
-### 🛡️ [Enterprise SOC Home Lab]([Link to your SOC Lab Repo])
+### 🛡️ [Enterprise SOC Home Lab](https://github.com/Jlaf-CYBER/SOC-Home-Lab)
 A fully functional, isolated SOC environment designed to simulate enterprise network traffic, detect active threats, and automate endpoint remediation.
 *   **Architecture:** Segmented WAN/LAN using pfSense, VMware.
 *   **Telemetry:** Splunk Enterprise, Universal Forwarders, Sysmon, Active Directory.
 *   **Active Defense:** CrowdSec Engine & Windows Firewall Bouncer (IPS).
-*   **Simulations:** RDP Brute-Force (Hydra) and Endpoint Persistence techniques.
+*   **Malware Analysis Sandbox:** air-gapped environment built for analysis of malicious payloads.
+*   
 
-### 🦠 [Isolated Malware Analysis Sandbox]([Link to specific page in your repo])
-A safe, air-gapped environment built for static and dynamic analysis of malicious payloads.
-*   **Tools:** FLARE-VM, Procmon, Wireshark, Regshot.
