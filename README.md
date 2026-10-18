@@ -16,3 +16,48 @@ My journey in computer engineering and networking has led me to develop a passio
 | Active Directory Administration & Telemetry | <a href="[Link to your SOC Lab Repo]">Enterprise SOC Home Lab</a> |
 | Attack Simulation & Remediation Validation | <a href="[Link to your SOC Lab Repo]">Enterprise SOC Home Lab</a> |
 
+## Tools
+
+### Network
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-pfSense-000000?&style=for-the-badge&logo=pfsense&logoColor=white" />
+</div>
+
+### Endpoint & Active Defense
+<div>
+    <img src="https://img.shields.io/badge/-Sysmon-0078D4?&style=for-the-badge&logo=windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CrowdSec-FF4F00?&style=for-the-badge&logo=crowdsec&logoColor=white" />
+</div>
+
+### SIEM
+<div>
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+</div>
+
+### Operating Systems & Environment
+<div>
+    <img src="https://img.shields.io/badge/-Windows_Server_2022-0078D4?&style=for-the-badge&logo=windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Kali_Linux-557C94?&style=for-the-badge&logo=kali-linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-VMware-607078?&style=for-the-badge&logo=vmware&logoColor=white" />
+</div>
+
+## Certifications
+<div>
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+</div>
+
+## Projects
+
+### 🛡️ [Enterprise SOC Home Lab]([Link to your SOC Lab Repo])
+A fully functional, isolated SOC environment designed to simulate enterprise network traffic, detect active threats, and automate endpoint remediation.
+*   **Architecture:** Segmented WAN/LAN using pfSense, VMware.
+*   **Telemetry:** Splunk Enterprise, Universal Forwarders, Sysmon, Active Directory.
+*   **Active Defense:** CrowdSec Engine & Windows Firewall Bouncer (IPS).
+*   **Simulations:** RDP Brute-Force (Hydra) and Endpoint Persistence techniques.
+
+### 🦠 [Isolated Malware Analysis Sandbox]([Link to specific page in your repo])
+A safe, air-gapped environment built for static and dynamic analysis of malicious payloads.
+*   **Tools:** FLARE-VM, Procmon, Wireshark, Regshot.
