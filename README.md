@@ -9,12 +9,12 @@ My journey in computer engineering and networking has led me to develop a passio
 ## Skills
 | Skill | Associated Project |
 | :--- | :--- |
-| SIEM Implementation, Ingestion & Log Analysis | <a href="[Link to your SOC Lab Repo]">Enterprise SOC Home Lab</a> |
-| Network Segmentation & Perimeter Security | <a href="[Link to your SOC Lab Repo]">Enterprise SOC Home Lab</a> |
-| Endpoint Detection & Response (EDR/IPS) | <a href="[Link to your SOC Lab Repo]">Enterprise SOC Home Lab</a> |
-| Threat Hunting & SPL Query Development | <a href="[Link to your SOC Lab Repo]">Enterprise SOC Home Lab</a> |
-| Active Directory Administration & Telemetry | <a href="[Link to your SOC Lab Repo]">Enterprise SOC Home Lab</a> |
-| Attack Simulation & Remediation Validation | <a href="[Link to your SOC Lab Repo]">Enterprise SOC Home Lab</a> |
+| SIEM Implementation, Ingestion & Log Analysis | <a href="https://github.com/Jlaf-CYBER/SOC-Home-Lab">Enterprise SOC Home Lab</a> |
+| Network Segmentation & Perimeter Security | <a href="https://github.com/Jlaf-CYBER/SOC-Home-Lab">Enterprise SOC Home Lab</a> |
+| Endpoint Detection & Response (EDR/IPS) | <a href="https://github.com/Jlaf-CYBER/SOC-Home-Lab">Enterprise SOC Home Lab</a> |
+| Threat Hunting & SPL Query Development | <a href="https://github.com/Jlaf-CYBER/SOC-Home-Lab">Enterprise SOC Home Lab</a> |
+| Active Directory Administration & Telemetry | <a href="https://github.com/Jlaf-CYBER/SOC-Home-Lab">Enterprise SOC Home Lab</a> |
+| Attack Simulation & Remediation Validation | <a href="https://github.com/Jlaf-CYBER/SOC-Home-Lab">Enterprise SOC Home Lab</a> |
 
 ## Tools
 
