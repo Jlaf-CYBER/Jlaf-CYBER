@@ -57,5 +57,4 @@ A fully functional, isolated SOC environment designed to simulate enterprise net
 *   **Telemetry:** Splunk Enterprise, Universal Forwarders, Sysmon, Active Directory.
 *   **Active Defense:** CrowdSec Engine & Windows Firewall Bouncer (IPS).
 *   **Malware Analysis Sandbox:** air-gapped environment built for analysis of malicious payloads.
-*   
 
